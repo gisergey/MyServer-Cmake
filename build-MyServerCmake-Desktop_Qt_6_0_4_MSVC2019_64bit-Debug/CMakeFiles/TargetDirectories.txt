@@ -1,0 +1,5 @@
+C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/CMakeFiles/MyServerCmake.dir
+C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/CMakeFiles/MyServerCmake_autogen_timestamp_deps.dir
+C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/CMakeFiles/MyServerCmake_autogen.dir

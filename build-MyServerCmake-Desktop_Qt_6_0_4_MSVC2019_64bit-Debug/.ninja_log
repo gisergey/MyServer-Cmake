@@ -1,0 +1,9 @@
+# ninja log v5
+2	438	6891885748601978	MyServerCmake_autogen/timestamp	ba78f583db226f7c
+2	438	6891885748601978	MyServerCmake_autogen/mocs_compilation.cpp	ba78f583db226f7c
+2	438	6891885748601978	C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/MyServerCmake_autogen/timestamp	ba78f583db226f7c
+2	438	6891885748601978	C:/Users/User/Documents/QtProjects/MyServer Cmake/MyServer-Cmale/build-MyServerCmake-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/MyServerCmake_autogen/mocs_compilation.cpp	ba78f583db226f7c
+438	2197	6891885767172365	CMakeFiles/MyServerCmake.dir/MyServerCmake_autogen/mocs_compilation.cpp.obj	62934042f110cfd7
+447	2201	6891885767202283	CMakeFiles/MyServerCmake.dir/main.cpp.obj	fb8c531505be22a9
+451	2531	6891885770503457	CMakeFiles/MyServerCmake.dir/MyServer.cpp.obj	832fd5cd024c7d34
+2531	2913	6891885774213055	MyServerCmake.exe	321a151a67321fbb
